@@ -18,9 +18,7 @@ public class Proyecto {
         // TODO code application logic here
     }
 
-    @Override
-    public String toString() {
-        return "Proyecto{" + '}';
-    }
+
+    
     
 }
